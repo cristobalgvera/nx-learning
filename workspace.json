@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "counter": "libs/counter",
     "next-app": "apps/next-app",
     "next-app-e2e": "apps/next-app-e2e"
   }
